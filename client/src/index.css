@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Handlee&display=swap');
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+    @media screen and (min-width: 1024px) {
+.taskCards{
+    display:flex !important;
+    flex-direction: row !important;
+}
+}
