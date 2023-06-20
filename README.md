@@ -5,10 +5,10 @@ This is a task management application designed to help users handle their daily 
 
 
 Features
-Task Creation: Users can create new tasks by providing the necessary details such as title, description, and due date.
+Task Creation: Users can create new tasks by providing the necessary details such as title, description, and add the date automatically.
 Task Listing: All created tasks are displayed in a clean and organized manner, allowing users to easily view and manage their tasks.
-Task Editing: Users can update task details, such as title, description, and due date, as needed.
-Task Completion: Once a task is completed, users can mark it as done to keep track of their progress.
+Task Editing: Users can update task details, such as title, description, as needed.
+Task Completion: Once a task is completed, users can mark it as done to keep track of their progress or undone too.
 Task Deletion: Users have the option to delete tasks that are no longer needed.
 Technologies Used
 Backend: Node.js
